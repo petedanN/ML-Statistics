@@ -1,0 +1,1 @@
+This repository contains an analysis of property prices in the city of Bangalore using the house_price.csv dataset. The primary focus of this project is to examine the price per square foot, perform exploratory data analysis (EDA), detect and handle outliers using multiple methods, check data distribution and normality, and investigate correlations between variables.
